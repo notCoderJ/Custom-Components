@@ -1,1 +1,1 @@
-# custom-component
+# custom component
